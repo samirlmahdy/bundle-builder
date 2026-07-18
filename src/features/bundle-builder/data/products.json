@@ -1,0 +1,286 @@
+{
+  "steps": [
+    {
+      "id": "cameras",
+      "title": "Choose your cameras",
+      "icon": "camera",
+      "nextLabel": "Choose your plan",
+      "products": [
+        {
+          "id": "cam-v4",
+          "name": "Wyze Cam v4",
+          "description": "The clearest Wyze Cam ever made.",
+          "image": "/assets/cam-v4.png",
+          "price": 27.98,
+          "compareAt": 35.98,
+          "badge": "Save 22%",
+          "variants": [
+            {
+              "id": "white",
+              "label": "White",
+              "image": "/assets/v4-white.png",
+              "displayImage": "/assets/v4-white.png"
+            },
+            {
+              "id": "grey",
+              "label": "Grey",
+              "image": "/assets/v4-grey.png",
+              "displayImage": "/assets/v4-grey-product.png"
+            },
+            {
+              "id": "black",
+              "label": "Black",
+              "image": "/assets/v4-black.png",
+              "displayImage": "/assets/v4-black-product.png"
+            }
+          ],
+          "details": {
+            "overview": "Capture the moments that matter with crisp 2.5K QHD video, enhanced color night vision, and smarter detection in a compact indoor/outdoor camera.",
+            "highlights": [
+              "2.5K QHD video with enhanced detail",
+              "Color night vision for clearer low-light footage",
+              "Indoor/outdoor design with weather resistance",
+              "Built-in spotlight and two-way audio"
+            ],
+            "specifications": [
+              { "label": "Resolution", "value": "2.5K QHD" },
+              { "label": "Connectivity", "value": "2.4 GHz Wi-Fi" },
+              { "label": "Power", "value": "Wired" },
+              { "label": "Placement", "value": "Indoor / outdoor" }
+            ],
+            "included": [
+              "Wyze Cam v4",
+              "USB power cable",
+              "Power adapter",
+              "Mounting hardware"
+            ]
+          }
+        },
+        {
+          "id": "cam-pan-v3",
+          "name": "Wyze Cam Pan v3",
+          "description": "360° pan and 180° tilt security camera.",
+          "image": "/assets/cam-pan-v3.png",
+          "price": 23.99,
+          "compareAt": 28.99,
+          "badge": "Save 12%",
+          "variants": [
+            {
+              "id": "white",
+              "label": "White",
+              "image": "/assets/pan-white.png",
+              "displayImage": "/assets/pan-white.png"
+            },
+            {
+              "id": "black",
+              "label": "Black",
+              "image": "/assets/pan-black.png",
+              "displayImage": "/assets/pan-black-product.png"
+            }
+          ],
+          "details": {
+            "overview": "Follow motion around the room or yard with smooth pan-and-tilt control, quiet operation, and full-room coverage from a single camera.",
+            "highlights": [
+              "360° horizontal pan and 180° vertical tilt",
+              "Automatic motion tracking",
+              "Color night vision and two-way audio",
+              "Weather-resistant indoor/outdoor construction"
+            ],
+            "specifications": [
+              { "label": "Resolution", "value": "1080p Full HD" },
+              { "label": "Coverage", "value": "360° pan / 180° tilt" },
+              { "label": "Power", "value": "Wired" },
+              { "label": "Placement", "value": "Indoor / outdoor" }
+            ],
+            "included": [
+              "Wyze Cam Pan v3",
+              "Power cable",
+              "Power adapter",
+              "Mounting kit"
+            ]
+          }
+        },
+        {
+          "id": "floodlight-v2",
+          "name": "Wyze Cam Floodlight v2",
+          "description": "2K floodlight camera with a 160° wide-angle view for your garage.",
+          "image": "/assets/floodlight-v2.png",
+          "price": 69.98,
+          "compareAt": 89.98,
+          "badge": "Save 22%",
+          "variants": [
+            {
+              "id": "white",
+              "label": "White",
+              "image": "/assets/flood-white.png",
+              "displayImage": "/assets/flood-white.png"
+            },
+            {
+              "id": "black",
+              "label": "Black",
+              "image": "/assets/flood-black.png",
+              "displayImage": "/assets/flood-black.png"
+            }
+          ],
+          "details": {
+            "overview": "Light up wide outdoor spaces and monitor them in 2K from one fixture. Ideal for driveways, garages, patios, and side entrances.",
+            "highlights": [
+              "2K video with a wide 160° field of view",
+              "Bright, adjustable dual-panel floodlight",
+              "Motion-activated lighting and event recording",
+              "Two-way audio with a built-in siren"
+            ],
+            "specifications": [
+              { "label": "Resolution", "value": "2K" },
+              { "label": "Field of view", "value": "160°" },
+              { "label": "Power", "value": "Hardwired" },
+              { "label": "Placement", "value": "Outdoor" }
+            ],
+            "included": [
+              "Floodlight camera",
+              "Mounting bracket",
+              "Wire hardware",
+              "Installation guide"
+            ]
+          }
+        },
+        {
+          "id": "duo-doorbell",
+          "name": "Wyze Duo Cam Doorbell",
+          "description": "Two cameras. Two views. Double the porch protection.",
+          "image": "/assets/doorbell.png",
+          "price": 69.98,
+          "details": {
+            "overview": "See visitors and packages at the same time with two purpose-built camera views, giving your front door more complete coverage.",
+            "highlights": [
+              "Dual-camera view for people and packages",
+              "Head-to-toe porch coverage",
+              "Two-way audio for real-time conversations",
+              "Smart alerts for important doorstep activity"
+            ],
+            "specifications": [
+              { "label": "Camera system", "value": "Dual view" },
+              { "label": "Audio", "value": "Two-way" },
+              { "label": "Power", "value": "Rechargeable battery" },
+              { "label": "Placement", "value": "Outdoor entry" }
+            ],
+            "included": [
+              "Duo Cam Doorbell",
+              "Rechargeable battery",
+              "Mounting plate",
+              "Installation hardware"
+            ]
+          }
+        },
+        {
+          "id": "battery-cam",
+          "name": "Wyze Battery Cam Pro",
+          "description": "Protect anywhere. See everything in 2.5K HDR. No power outlet or electrician needed.",
+          "image": "/assets/battery-cam.png",
+          "price": 89.98,
+          "variants": [
+            {
+              "id": "white",
+              "label": "White",
+              "image": "/assets/battery-cam.png",
+              "displayImage": "/assets/battery-cam.png"
+            },
+            {
+              "id": "black",
+              "label": "Black",
+              "image": "/assets/battery-black.png",
+              "displayImage": "/assets/battery-black.png"
+            }
+          ],
+          "details": {
+            "overview": "Place high-resolution protection where outlets cannot reach. The rechargeable design makes it easy to monitor sheds, yards, gates, and rental spaces.",
+            "highlights": [
+              "Wire-free installation with rechargeable power",
+              "2.5K HDR video with detailed highlights and shadows",
+              "Integrated spotlight and color night vision",
+              "Weather-resistant design for flexible placement"
+            ],
+            "specifications": [
+              { "label": "Resolution", "value": "2.5K HDR" },
+              { "label": "Power", "value": "Rechargeable battery" },
+              { "label": "Lighting", "value": "Integrated spotlight" },
+              { "label": "Placement", "value": "Indoor / outdoor" }
+            ],
+            "included": [
+              "Battery Cam Pro",
+              "Rechargeable battery",
+              "USB charging cable",
+              "Mounting hardware"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "plan",
+      "title": "Choose your plan",
+      "icon": "shield",
+      "nextLabel": "Choose your sensors",
+      "products": [],
+      "fixedCategories": ["Plan"]
+    },
+    {
+      "id": "sensors",
+      "title": "Choose your sensors",
+      "icon": "sensor",
+      "nextLabel": "Add extra protection",
+      "products": [],
+      "fixedCategories": ["Sensors"]
+    },
+    {
+      "id": "protection",
+      "title": "Add extra protection",
+      "icon": "dots",
+      "nextLabel": "Review your system",
+      "products": [],
+      "fixedCategories": ["Accessories"]
+    }
+  ],
+  "fixedItems": [
+    {
+      "id": "motion-sensor",
+      "category": "Sensors",
+      "name": "Wyze Sense Motion Sensor",
+      "image": "/assets/motion-sensor.png",
+      "price": 29.99,
+      "quantity": 2
+    },
+    {
+      "id": "sense-hub",
+      "category": "Sensors",
+      "name": "Wyze Sense Hub (Required)",
+      "image": "/assets/sense-hub.png",
+      "price": 0,
+      "compareAt": 29.92,
+      "quantity": 1,
+      "required": true,
+      "autoIncludeWhen": "products"
+    },
+    {
+      "id": "microsd",
+      "category": "Accessories",
+      "name": "Wyze MicroSD Card (256GB)",
+      "image": "/assets/microsd.png",
+      "price": 20.98,
+      "quantity": 2
+    },
+    {
+      "id": "plan-unlimited",
+      "category": "Plan",
+      "name": "Cam Unlimited",
+      "accentText": "Unlimited",
+      "image": "/assets/cam-unlimited-icon.svg",
+      "price": 9.99,
+      "compareAt": 12.99,
+      "quantity": 1,
+      "monthly": true,
+      "required": true,
+      "autoIncludeWhen": "cameras"
+    }
+  ]
+}
