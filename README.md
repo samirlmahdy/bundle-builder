@@ -2,7 +2,7 @@
 
 A responsive React prototype for building a personalized Wyze security system.
 It follows the supplied
-[Figma design](https://www.figma.com/design/znagN7w2Yw449uF5nHmD4y/Frontend-Test-Figma--Copy-?node-id=74-21629&m=dev)
+[Figma design]([https://www.figma.com/design/znagN7w2Yw449uF5nHmD4y/Frontend-Test-Figma--Copy-?node-id=74-21629&m=dev](https://www.figma.com/design/JYf61etQVqeseX7oY5alGz/Frontend-Test-Figma?node-id=68-8088&p=f&t=paVfqYNiGgA5xysn-0))
 and includes an Express backend that serves the product catalog from JSON.
 
 ## Functionality
